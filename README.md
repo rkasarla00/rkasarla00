@@ -1,4 +1,4 @@
-<h1>🏔️ Rohit Kasarla!
+<h1>🏔️ Rohit Kasarla
 <h2>About Me</h2>
 
 I'm a cybersecurity professional with a passion for continuous learning and development. I thrive on creating coding projects and tackling challenging problems – the tougher the puzzle, the more determined I am to crack it!
