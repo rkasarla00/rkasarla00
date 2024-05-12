@@ -9,7 +9,7 @@ I'm always looking to connect and collaborate with others in the field. Let's ch
 
 <h2>👨🏽‍💻 Programming Projects</h2>
 
-- [Python Project](https://github.com/rkasarla00/projectURL)
+- [Python Quiz Game](https://github.com/rkasarla00/quiz_game)
 
 
 <h2>📺 YouTube Videos</h2>
