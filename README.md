@@ -12,10 +12,6 @@ I'm always looking to connect and collaborate with others in the field. Let's ch
 - [Python Quiz Game (Beginner)](https://github.com/rkasarla00/quiz_game)
 
 
-<h2>📺 YouTube Videos</h2>
-
-- [Python Project](https://youtube.com/rkasarla)
-
 <h2>👨🏽‍🎓 Certifications </h2>
 
 - [AWS Cloud Practitioner](https://www.credly.com/badges/11708185-382b-4044-83cb-6e576f588ede/linked_in_profile)
