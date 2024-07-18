@@ -19,6 +19,7 @@ I'm always looking to connect and collaborate with others in the field. Let's ch
 - [AWS Cloud Practitioner](https://www.credly.com/badges/11708185-382b-4044-83cb-6e576f588ede/linked_in_profile)
 - [GIAC Cloud Security Essentials (GCLD)](https://www.credly.com/badges/8b06b826-4395-425e-9f32-988c653e0637/linked_in_profile)
 - [GIAC Cloud Security Automation Certification (GCSA)](https://www.credly.com/badges/4f60cfa9-be86-46d8-be68-e11c3066437a/linked_in_profile)
+- [Antisyphon Network Forensic and Incident Response](https://media.licdn.com/dms/image/D562DAQFypvsiPZvq6w/profile-treasury-image-shrink_800_800/0/1719437262401?e=1721937600&v=beta&t=vqyUI-xmSu1zRATSJXtG21OUsjOlyqky7vqy7rvpzvI)
 
 <h2> 🤳 Connect with me on LinkedIn</h2>
 
