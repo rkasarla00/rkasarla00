@@ -12,6 +12,7 @@ I'm always looking to connect and collaborate with others in the field. Let's ch
 - [Python Quiz Game (Beginner)](https://github.com/rkasarla00/quiz_game)
 - [Prisma Cloud Workshop](https://github.com/rkasarla00/prisma-cloud-devsecops-workshop)
 - [Python Course Lessons](https://github.com/rkasarla00/python_course)
+- [LeetCode Problems](https://github.com/rkasarla00/LeetCode)
 
 
 <h2>👨🏽‍🎓 Certifications </h2>
